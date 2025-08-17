@@ -1,0 +1,5 @@
+streamlit
+camelot-py[cv]
+pandas
+python-docx
+openpyxl
